@@ -1,4 +1,4 @@
-# Custom UMLS concept for Belgium
+# Custom UMLS concept for Belgium (French and English)
 
 This repo takes concepts from UMLS, the Belgian SnomedCT extension and Belgian drug names (SAM) to generate custom concept tables to be used in biomedical entity linking tasks on (Belgian) French medical corpus.
 
